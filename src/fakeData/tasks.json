@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "details": "Buy orange juice",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "details": "Clean up the room",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "details": "Call back to Yevgen",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "details": "Bookmark the hotel",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "details": "Buy new headphones",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "details": "Buy a book",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "details": "Sell a book",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "details": "Renew subscription",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "details": "Call to friend",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "details": "Fly to Europe",
+      "completed": false
+    },
+    {
+      "id": 11,
+      "details": "Visit Japan",
+      "completed": false
+    },
+    {
+      "id": 12,
+      "details": "Pay bills",
+      "completed": false
+    },
+    {
+      "id": 13,
+      "details": "Buy new bicycle",
+      "completed": false
+    },
+    {
+      "id": 14,
+      "details": "Restore password",
+      "completed": false
+    },
+    {
+      "id": 15,
+      "details": "Sell unneeded things",
+      "completed": false
+    }
+  ]
+}

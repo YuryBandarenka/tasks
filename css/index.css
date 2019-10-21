@@ -1,0 +1,20 @@
+
+
+.tasks-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+input[type=checkbox], .button-show-more {
+    cursor: pointer
+}
+
+input[type=checkbox] {
+    zoom: 1.5;
+    margin-right: 0.6rem;
+}
+
+.button-show-more {
+    padding: 5px;
+    border-radius: 3px;
+}
