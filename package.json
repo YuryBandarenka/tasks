@@ -72,7 +72,7 @@
     "jest": "^24.9.0",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.10.2",
     "react-test-renderer": "^16.10.2",
     "remote-redux-devtools": "^0.5.16",
